@@ -1,6 +1,0 @@
-servers of your domain with following values: 
-•	o.ns.arvancdn.net 
-•	q.ns.arvancdn.com 
-These guides may also prove useful to you: 
-•	Getting Started with Cloud DNS 
-•	Managing DNS Records 
